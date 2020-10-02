@@ -45,7 +45,7 @@ Authentication to the API is performed via HTTP Basic Auth.
 Provide your username and password as the basic auth username and password value.
 
 <aside class="notice">
-  Only users with an **Owner** or **Administrator** role in the company can access Tiikr API.
+Only users with an Owner or Administrator role in the company can access Tiikr API.
 </aside>
 
 Contact us if you do not know your username and password.
